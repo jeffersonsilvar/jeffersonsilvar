@@ -16,7 +16,7 @@ Recife - PE
 
 Atualmente desenvolvendo:
 
-• SGR Web
+• SGR Web — Sistema de Gestão de Rotas
 
 Estudando:
 
