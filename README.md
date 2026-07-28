@@ -26,22 +26,24 @@ Estudando:
 
 ## 🛠 Tecnologias
 
+🐍 Backend
+
 Python
-
 Flask
-
 MySQL
+SQL
+
+🎨 Front-end
 
 HTML
-
 CSS
-
 Jinja
 
-Git
+⚙ Ferramentas
 
+Git
 GitHub
 
-ERP
+🏢 Negócio
 
-SQL
+ERP
