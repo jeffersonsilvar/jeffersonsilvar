@@ -1,10 +1,10 @@
 # Olá! Eu sou Jefferson Silva 👋
 
-Analista de Sistemas
+💼 Analista de Sistemas com experiência em implantação de ERP e melhoria de processos.
 
-Implantação de ERP
+🚀 Atualmente em transição para Desenvolvimento Backend com Python e Flask.
 
-Backend Python
+📦 Desenvolvendo o projeto SGR, uma plataforma web multiempresa para gestão logística.
 
 📍 Recife - PE
 
