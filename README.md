@@ -6,7 +6,13 @@
 
 📦 Desenvolvendo o projeto SGR, uma plataforma web multiempresa para gestão logística.
 
-📍 Recife - PE
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/jeffersonsilvarlima/
+
+Email: jeffersonsilvar.lima@gmail.com
+
+Recife - PE
 
 Atualmente desenvolvendo:
 
@@ -17,3 +23,25 @@ Estudando:
 • Flask
 • APIs REST
 • Arquitetura de Software
+
+## 🛠 Tecnologias
+
+Python
+
+Flask
+
+MySQL
+
+HTML
+
+CSS
+
+Jinja
+
+Git
+
+GitHub
+
+ERP
+
+SQL
